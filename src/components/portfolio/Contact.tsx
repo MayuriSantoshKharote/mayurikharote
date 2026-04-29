@@ -6,20 +6,20 @@ const channels = [
   {
     icon: Mail,
     label: "Email",
-    value: "mayurikharote@example.com",
-    href: "mailto:mayurikharote@example.com",
+    value: "mayurikharote2006@gmail.com",
+    href: "mailto:mayurikharote2006@gmail.com",
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "linkedin.com/in/mayuri-kharote",
-    href: "https://linkedin.com/in/mayuri-kharote",
+    value: "linkedin.com/in/mayuri-kharote-7b485230a",
+    href: "https://www.linkedin.com/in/mayuri-kharote-7b485230a/",
   },
   {
     icon: Github,
     label: "GitHub",
-    value: "github.com/mayuri-kharote",
-    href: "https://github.com/mayuri-kharote",
+    value: "github.com/MayuriSantoshKharote",
+    href: "https://github.com/MayuriSantoshKharote",
   },
 ];
 
