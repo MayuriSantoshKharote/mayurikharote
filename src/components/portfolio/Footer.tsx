@@ -8,9 +8,9 @@ export const Footer = () => (
       </div>
       <div className="flex items-center gap-3">
         {[
-          { icon: Github, href: "https://github.com/mayuri-kharote", label: "GitHub" },
-          { icon: Linkedin, href: "https://linkedin.com/in/mayuri-kharote", label: "LinkedIn" },
-          { icon: Mail, href: "mailto:mayurikharote@example.com", label: "Email" },
+          { icon: Github, href: "https://github.com/MayuriSantoshKharote", label: "GitHub" },
+          { icon: Linkedin, href: "https://www.linkedin.com/in/mayuri-kharote-7b485230a/", label: "LinkedIn" },
+          { icon: Mail, href: "mailto:mayurikharote2006@gmail.com", label: "Email" },
         ].map((s) => (
           <a
             key={s.label}
