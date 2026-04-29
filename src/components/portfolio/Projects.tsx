@@ -10,6 +10,7 @@ const projects = [
     desc: "An AI-powered safety assistant designed for women — combining real-time alerts, voice triggers, and intelligent guidance to create a smarter shield against danger.",
     tech: ["AI", "Mobile", "Firebase"],
     color: "from-pink-500/20 to-purple-500/20",
+    link: undefined as string | undefined,
   },
   {
     icon: BookOpen,
@@ -18,6 +19,7 @@ const projects = [
     desc: "A collaborative learning website that pairs students with study partners, curated resources, and progress tracking — making learning social and structured.",
     tech: ["Web", "Backend", "UX"],
     color: "from-cyan-500/20 to-blue-500/20",
+    link: "https://jovial-pika-ac71e6.netlify.app/",
   },
   {
     icon: Calendar,
@@ -26,6 +28,7 @@ const projects = [
     desc: "An automated scheduling engine that builds conflict-free academic timetables in seconds — built to save admins hours of manual work.",
     tech: ["Algorithms", "Web"],
     color: "from-violet-500/20 to-fuchsia-500/20",
+    link: undefined as string | undefined,
   },
   {
     icon: Bot,
@@ -34,6 +37,7 @@ const projects = [
     desc: "An autonomous AI agent that audits, optimises, and coaches your LinkedIn presence — turning a static profile into a recruiter magnet.",
     tech: ["AI Agent", "LLM", "Automation"],
     color: "from-amber-500/20 to-pink-500/20",
+    link: "https://agent.ai/agent/tul2ymacbi6q4btu",
   },
 ];
 
