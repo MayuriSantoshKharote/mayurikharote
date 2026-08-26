@@ -47,7 +47,8 @@ export const Navbar = () => {
         </div>
         <a
           href="/Mayuri_Kharote_Resume.pdf"
-          download
+          target="_blank"
+          rel="noopener noreferrer"
           className="hidden md:inline-flex items-center text-sm font-medium px-4 py-2 rounded-full bg-gradient-primary text-primary-foreground hover:shadow-glow transition-smooth"
         >
           Resume
