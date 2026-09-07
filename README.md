@@ -10,7 +10,7 @@ Hi, I'm **Mayuri Santosh Kharote**, a B.Tech Computer Science student passionate
 
 - 🎓 B.Tech CSE Student  
 - 🚀 Microsoft Imagine Cup 2026 Participant  
-- 🏅 Secured **59th Rank out of 55,000 applicants** (CEO for a Day Challenge)  
+- 🏅 Secured **58th Rank out of 55,000 applicants** (CEO for a Day Challenge)  
 - 🎯 Campus Ambassador at IIT Gandhinagar  
 
 I enjoy working on **AI, Backend Development, and Data Structures & Algorithms**.
@@ -53,9 +53,10 @@ An AI-based assistant that helps users improve their LinkedIn presence and strat
 ## 💼 Experience / Work
 
 - 🌐 [Maungiri Fabrication](https://maungiri-fabrication.vercel.app/)  
-- 🌐 [Camera Illusion Portfolio](https://cameraillusion-portfolio.netlify.app/)  
+- 🌐 [Camera Illusion Portfolio](https://cameraillusion-portfolio.netlify.app/)
+- 🌐 [chaitanyatidke Portfolio](https://chaintanyatidke.vercel.app/)
 
-✔️ Successfully delivered projects to **2 happy clients**
+✔️ Successfully delivered projects to **3 happy clients**
 
 ---
 
@@ -63,7 +64,7 @@ An AI-based assistant that helps users improve their LinkedIn presence and strat
 
 - Campus Ambassador – IIT Gandhinagar  
 - Microsoft Imagine Cup 2026 Participant  
-- Secured **59th rank out of 55,000 applicants**  
+- Secured **58th rank out of 55,000 applicants**  
 
 ---
 
@@ -105,6 +106,4 @@ This portfolio is deployed using modern hosting platforms.
 
 If you like this project, consider giving it a ⭐ on GitHub!
 
----
 
-(Add your portfolio screenshot here)
